@@ -6,7 +6,7 @@
                                         o' \.=./ `o
                                            (o o)          
                                        ooO--(_)--Ooo
-                                       
+                                       KORONG BADAG
                                           O S I F
                             [open source information facebook]
 ```
@@ -18,7 +18,7 @@ OSIF is an accurate facebook account information gathering, all sensitive inform
 ```
 $ pkg update upgrade
 $ pkg install git python2
-$ git clone https://github.com/ciku370/OSIF
+$ git clone https://github.com/opiksaja/OSIF
 $ cd OSIF
 ```
 
